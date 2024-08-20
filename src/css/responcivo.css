@@ -1,0 +1,17 @@
+main {
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+main img {
+    width: 100%;
+}
+
+
+
+@media(main-width: 600px){
+   nav {
+    margin-top: 0px;
+   }
+}
